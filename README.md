@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to my Git Profile ✨
 
-- 🌱 I’m learning Computer Science in University of Engineering and Technology, VNU Hanoi
+- 🌱 I’m Quynh, I'm learning Computer Science in University of Engineering and Technology, VNU Hanoi
 - 🔭 I’m currently working on C++
 - 📫 Reach me at: LinkedIn, Youtube Channel, Website
 
