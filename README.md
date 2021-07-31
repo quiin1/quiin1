@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my Git Profile ✨
+
+🌱 I’m learning Computer Science in University of Engineering and Technology, VNU Hanoi
+🔭 I’m currently working on C++
+📫 Reach me at: LinkedIn, Youtube Channel, Website
 
 <!--
 **quiin1/quiin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
